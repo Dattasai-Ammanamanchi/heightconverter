@@ -1,0 +1,20 @@
+html{
+    font-family: "Helvetica Ne";
+    font-size:larger;
+    font-weight:bold;
+}
+
+input{
+    padding:10px;
+    border-radius:5px;
+    width:20%;
+    height:7px;
+}
+
+button{
+    height:13px;
+    width:50px;
+    border-radius:5px;
+    padding:15px;
+    text-align: center;
+}
